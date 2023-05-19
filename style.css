@@ -1,0 +1,49 @@
+abbr{
+    text-decoration: none;
+}
+audio{
+    position: relative;
+    left: 515px;
+ top: 250px;
+    padding: 10px;
+    color: aqua;
+    background-color: #aaa;
+    width: 50%;
+box-shadow: #eee;
+}
+kbd{
+    border: 1;
+    border-radius: 1px;
+    padding: 4px;
+    background-color: #aaa;
+    font-family: monospace;
+}
+body{
+    background-color: #aaa;
+}
+
+summary{
+    margin-left: 50px;
+    position: relative;
+    top: -50px;
+}
+h2{
+    display: inline;
+    font-family: cursive;
+    padding:2px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #eee;
+    background-color: black;
+    width: 50%;
+    position: relative;
+    left: 300px;
+    text-align: center;
+}
+pre{
+    width: 40%;
+ position: relative;
+ top: -40px;
+margin-left: 5px;
+}
